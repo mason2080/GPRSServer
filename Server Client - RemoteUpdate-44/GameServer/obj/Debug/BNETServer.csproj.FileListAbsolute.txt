@@ -1,0 +1,44 @@
+D:\GPRSSERVER\BNETGPRSServer.exe
+D:\GPRSSERVER\BNETGPRSServer.pdb
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\BNETServer.csprojResolveAssemblyReference.cache
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\GameServer.FormServer.resources
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\BNETGPRSServer.Properties.Resources.resources
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\BNETServer.csproj.GenerateResource.Cache
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\BNETGPRSServer.exe
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\BNETGPRSServer.pdb
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\bin\Release\BNETGPRSServer.exe
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\bin\Release\BNETGPRSServer.pdb
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\obj\Debug\GameServer.FormServer.resources
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\obj\Debug\BNETGPRSServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\obj\Debug\BNETServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\obj\Debug\BNETGPRSServer.exe
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\obj\Debug\BNETGPRSServer.pdb
+C:\Users\Administrator\Desktop\Server Client\Server Client\GameServer\obj\Debug\BNETServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\obj\Debug\BNETGPRSServer.exe
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\obj\Debug\BNETGPRSServer.pdb
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\bin\Release\BNETGPRSServer.exe
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\bin\Release\BNETGPRSServer.pdb
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\obj\Debug\BNETServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\obj\Debug\GameServer.FormServer.resources
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\obj\Debug\BNETGPRSServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate\GameServer\obj\Debug\BNETServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.exe
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.pdb
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\obj\Debug\GameServer.FormServer.resources
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\bin\Release\BNETGPRSServer.exe
+C:\Users\Administrator\Desktop\Server Client\Server Client - RemoteUpdate-44\GameServer\bin\Release\BNETGPRSServer.pdb
+D:\资料\Server Client - RemoteUpdate-44\GameServer\bin\Release\BNETGPRSServer.exe
+D:\资料\Server Client - RemoteUpdate-44\GameServer\obj\Debug\GameServer.FormServer.resources
+D:\资料\Server Client - RemoteUpdate-44\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+D:\资料\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETServer.csproj.GenerateResource.Cache
+D:\资料\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.exe
+D:\资料\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.pdb
+D:\资料\Server Client - RemoteUpdate-44\GameServer\bin\Release\BNETGPRSServer.pdb
+D:\资料\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETServer.csprojResolveAssemblyReference.cache
+D:\BNET\程序\GPRS\服务器\Server Client - RemoteUpdate-44\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.exe
+D:\BNET\程序\GPRS\服务器\Server Client - RemoteUpdate-44\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.pdb
+C:\Users\Administrator\Desktop\GPRSServer\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.exe
+C:\Users\Administrator\Desktop\GPRSServer\Server Client - RemoteUpdate-44\GameServer\obj\Debug\BNETGPRSServer.pdb

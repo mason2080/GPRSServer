@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GameServer">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Desktop\GameServer\GameServer.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Administrator\Desktop\GameServer\GameServer.suo">
+</Property><Property Name="Date" Value="2014年1月8日">
+</Property><Property Name="Time" Value="9:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GameServer.sln" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GameServer.suo" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer.suo">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\GameServer.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\GameServer.csproj">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\FormServer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\FormServer.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\FormServer.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\FormServer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\GameTable.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\GameTable.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Player.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Player.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Program.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Service.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Service.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\User.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\User.cs">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\FormServer.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\FormServer.resx">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameServer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\GameServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GameServer" Source="GameServer\GameServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\GameClient.csproj">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\DotColor.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\DotColor.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\FormPlaying.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\FormPlaying.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\FormRoom.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\FormRoom.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Program.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Service.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Service.cs">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Image\black.gif" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Image\black.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Image\grid.gif" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Image\grid.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Image\white.gif" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Image\white.gif">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormPlaying.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\FormPlaying.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\FormRoom.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\FormRoom.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\GameServer\Backup\GameClient\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GameClient" Source="GameClient\GameClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GameServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GameServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GameServer" Source="GameServer\GameServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GameClient" Source="GameClient\GameClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

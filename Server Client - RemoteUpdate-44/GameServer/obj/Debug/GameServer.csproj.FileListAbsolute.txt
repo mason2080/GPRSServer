@@ -1,0 +1,26 @@
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\bin\Debug\GameServer.exe
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\bin\Debug\GameServer.pdb
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\obj\Debug\ResolveAssemblyReference.cache
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\obj\Debug\GameServer.exe
+G:\net\电子书\C#网络高级编程\TCP\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\GameServer\GameServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+C:\Users\Administrator\Desktop\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GameServer\GameServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\GameServer\GameServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\GameServer.exe
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\GameServer.pdb
+F:\迅雷下载\Server Client\Server Client\GameServer\bin\Debug\GameServer.exe
+F:\迅雷下载\Server Client\Server Client\GameServer\bin\Debug\GameServer.pdb
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\GameServer.FormServer.resources
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+F:\迅雷下载\Server Client\Server Client\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+D:\GPRSSERVER\GameServer.exe
+D:\GPRSSERVER\GameServer.pdb
